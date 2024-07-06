@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lahiruni Malshika Amarasena</h1
- <h2 align="center"><img src="https://github.com/LahiruniMalshika/LahiruniMalshika/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <h3 align="center"><b>Full Stack Developer | Cybersecurity Enthusiast | Cloud Computing Enthusiast </b></h3>
   <br>  <p align='center'> This is ME, Lahiruni Malshika Amarasena, a 3rd year IT undergraduate from the University of Moratuwa, Sri Lanka.</p>
@@ -16,7 +15,7 @@
 
 - 📫 How to reach me **lahimalshi@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lahiruni-malshika-234242222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahirunimalshika" height="30" width="40" /></a>
 <a href="https://medium.com/@lahimalshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lahirunimalshika" height="30" width="40" /></a>
