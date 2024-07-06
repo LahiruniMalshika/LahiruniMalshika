@@ -9,7 +9,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-  <br> <br>
+  <br> 
 - 🔭 I’m currently working on **AnotherShots**
 
 - 🌱 I’m currently learning **SpringBoot & ASP.Net**
@@ -19,7 +19,7 @@
 - 📫 How to reach me **lahimalshi@gmail.com**
   <br> <br>
   <br> <br>
-    <br> <br>
+
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
