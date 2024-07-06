@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lahiruni Malshika Amarasena</h1>
+<h1 align="center">Hi , I'm Lahiruni Malshika Amarasena <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <h3 align="center"><b>Full Stack Developer | Cybersecurity Enthusiast | Cloud Computing Enthusiast </b></h3>
   <br>  <p align='center'> This is ME, Lahiruni Malshika Amarasena, a 3rd year IT undergraduate from the University of Moratuwa, Sri Lanka.</p>
