@@ -6,13 +6,14 @@
 <h3 align="center"><b>Full Stack Developer | Cybersecurity Enthusiast | Cloud Computing Enthusiast </b></h3>
   <br>  <p align='center'> This is ME, Lahiruni Malshika Amarasena, a 3rd year IT undergraduate from the University of Moratuwa, Sri Lanka.</p>
 
- <p align='center'> I'm Passionate about Information Technology and innovations</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lahirunimalshika&label=Profile%20views&color=0e75b6&style=flat" alt="lahirunimalshika" /> </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
   <br> 
+- 🔭  I'm Passionate about Information Technology and innovations</p> 
 - 🔭 I’m currently working on **AnotherShots**
 
 - 🌱 I’m currently learning **SpringBoot & ASP.Net**
