@@ -16,6 +16,7 @@
 - 💬 Ask me about **React JS, Next JS, MySQL, MongoDB, Java, C, TypeScript, Tailwind CSS, Nest JS**
 
 - 📫 How to reach me **lahimalshi@gmail.com**
+  <br> <br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
