@@ -4,7 +4,7 @@
 <h1 align="center">Hi , I'm Lahiruni Malshika Amarasena <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <h3 align="center"><b>Full Stack Developer | Cybersecurity Enthusiast | Cloud Computing Enthusiast </b></h3>
-  <br>  <p align='center'> This is ME, Lahiruni Malshika Amarasena, a 3rd year IT undergraduate from the University of Moratuwa, Sri Lanka.</p>
+  <p align='center'> This is ME, Lahiruni Malshika Amarasena, a 3rd year IT undergraduate from the University of Moratuwa, Sri Lanka.</p>
 
 
 
@@ -13,7 +13,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
   <br> 
-- 🔭  I'm Passionate about Information Technology and innovations</p> 
+- 😍 I'm Passionate about Information Technology and innovations</p> 
 - 🔭 I’m currently working on **AnotherShots**
 
 - 🌱 I’m currently learning **SpringBoot & ASP.Net**
