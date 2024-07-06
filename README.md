@@ -6,7 +6,13 @@
 <h3 align="center"><b>Full Stack Developer | Cybersecurity Enthusiast | Cloud Computing Enthusiast </b></h3>
   <p align='center'> This is ME, Lahiruni Malshika Amarasena, a 3rd year IT undergraduate from the University of Moratuwa, Sri Lanka.</p>
 
-
+  
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/lahiruni-malshika-234242222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahirunimalshika" height="30" width="40" /></a>
+<a href="https://medium.com/@lahimalshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lahirunimalshika" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/lahiruniamarase1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lahiruniamarase1" height="30" width="40" /></a>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lahirunimalshika&label=Profile%20views&color=0e75b6&style=flat" alt="lahirunimalshika" /> </p>
 
@@ -24,13 +30,7 @@
   <br> <br>
   <br> <br>
 
-  
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/lahiruni-malshika-234242222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahirunimalshika" height="30" width="40" /></a>
-<a href="https://medium.com/@lahimalshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lahirunimalshika" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/lahiruniamarase1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lahiruniamarase1" height="30" width="40" /></a>
-</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
