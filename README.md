@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lahiruni Malshika Amarasena</h1
- <h2 align="center"><img src="https://github.com/Lahiruni Malshika/Lahiruni Malshika/blob/master/gifs/Hi.gif" width="30px"></h2>
+ <h2 align="center"><img src="https://github.com/LahiruniMalshika/LahiruniMalshika/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <h3 align="center"><b>Full Stack Developer | Cybersecurity Enthusiast | Cloud Computing Enthusiast </b></h3>
   <br>  <p align='center'> This is ME, Lahiruni Malshika Amarasena, a 3rd year IT undergraduate from the University of Moratuwa, Sri Lanka.</p>
