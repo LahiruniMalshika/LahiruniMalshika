@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **SpringBoot & ASP.Net**
 
-- 💬 Ask me about **React JS, Next JS, MY SQL, MongoDB, Java, C, TypeScript, Tailwind CSS, Nest JS**
+- 💬 Ask me about **React JS, Next JS, MySQL, MongoDB, Java, C, TypeScript, Tailwind CSS, Nest JS**
 
 - 📫 How to reach me **lahimalshi@gmail.com**
 
