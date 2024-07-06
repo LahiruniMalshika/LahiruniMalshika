@@ -5,9 +5,9 @@
 
  <p align='center'> I'm Passionate about Information Technology and innovations</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahirunimalshika&label=Profile%20views&color=0e75b6&style=flat" alt="lahirunimalshika" /> </p>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahirunimalshika&label=Profile%20views&color=0e75b6&style=flat" alt="lahirunimalshika" /> </p>
 
 - 🔭 I’m currently working on **AnotherShots**
 
