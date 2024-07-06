@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/lahiruni-malshika-234242222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahirunimalshika" height="30" width="40" /></a>
 <a href="https://medium.com/@lahimalshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lahirunimalshika" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/lahiruniamarase1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lahiruniamarase1" height="30" width="40" /></a>
+   <a href = "mailto: lahimalshi@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lahirunimalshika&label=Profile%20views&color=0e75b6&style=flat" alt="lahirunimalshika" /> </p>
