@@ -4,7 +4,7 @@
 <h1 align="center">Hi , I'm Lahiruni Malshika Amarasena <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <h3 align="center"><b>Full Stack Developer | Cybersecurity Enthusiast | Cloud Computing Enthusiast </b></h3>
-  <p align='center'> This is ME, Lahiruni Malshika Amarasena, a 3rd year IT undergraduate from the University of Moratuwa, Sri Lanka.</p>
+  <p align='center'> This is ME, Lahiruni Malshika Amarasena, a final year IT undergraduate from the University of Moratuwa, Sri Lanka.</p>
 
   
 <h3 align="center">Connect with me:</h3>
@@ -21,11 +21,8 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
   <br> 
 - 😍 I'm Passionate about Information Technology and innovations</p> 
-- 🔭 I’m currently working on **NovaCart**
-
-- 🌱 I’m currently learning **SpringBoot & ASP.Net**
-
-- 💬 Ask me about **React JS, Next JS, MySQL, MongoDB, Java, C, TypeScript, Tailwind CSS, Nest JS**
+- 🔭 I’m currently working as a Trainee Software Engineer at Virstack Pvt.Ltd
+- 💬 Ask me about **React JS, Node JS, Express JS, MySQL, MongoDB, Java, C, TypeScript, Tailwind CSS, Nest JS**
 
 - 📫 How to reach me **lahimalshi@gmail.com**
   <br> <br>
