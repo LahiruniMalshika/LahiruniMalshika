@@ -29,6 +29,26 @@
   <br> <br>
 
 
+## 💼 Work Experience
+
+### 🚀 Trainee Software Engineer — Virstack Pvt. Ltd.
+**DEC 2024 – Present**
+
+- Contributing to developing and maintaining AI-powered full-stack applications using the **MERN stack**, alongside cross-platform mobile development with **Flutter**
+- Integrated AI-driven features to enhance product functionality and built scalable interfaces
+- Developed **RESTful APIs** with Node.js, Express.js, and MongoDB
+- Optimizing application performance to ensure fast, reliable, and efficient user experiences across web and mobile platforms with clean code architectures
+- Supporting **DevOps workflows** and **AWS cloud infrastructure** and version control
+- Collaborating within an agile team to deliver production-ready solutions
+
+### 🛠️ Intern Software Engineer — Virstack Pvt. Ltd.
+**MAR 2025 – NOV 2025**
+
+- Contributed to full-stack web and mobile application development using **React**, **Angular**, **Express with TypeScript**, and **Flutter (Dart)**
+- Built responsive UI components, implemented form validation and API integrations
+- Supported feature development in a production-level environment
+
+---
 
 
 <h3 align="left">Languages and Tools:</h3>
