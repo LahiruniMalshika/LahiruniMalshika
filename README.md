@@ -4,7 +4,7 @@
 <h1 align="center">Hi , I'm Lahiruni Malshika Amarasena <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <h3 align="center"><b>Full Stack Developer | Cybersecurity Enthusiast | Cloud Computing Enthusiast </b></h3>
-  <p align='center'> This is ME, Lahiruni Malshika Amarasena, a final year IT undergraduate from the University of Moratuwa, Sri Lanka.</p>
+  <p align='center'> <a href="#" target"blank" />Final year IT undergraduate at the University of Moratuwa, Sri Lanka. </a></p>
 
   
 <h3 align="center">Connect with me:</h3>
@@ -19,34 +19,20 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-  <br> 
+  <br>
+- 🔭 Currently working as a Trainee Software Engineer at Virstack Pvt.Ltd
 - 😍 I'm Passionate about Information Technology and innovations</p> 
-- 🔭 I’m currently working as a Trainee Software Engineer at Virstack Pvt.Ltd
 - 💬 Ask me about **React JS, Node JS, Express JS, MySQL, MongoDB, Java, C, TypeScript, Tailwind CSS, Nest JS**
-
 - 📫 How to reach me **lahimalshi@gmail.com**
   <br> <br>
-  <br> <br>
-
-
+  
 ## 💼 Work Experience
 
 ### 🚀 Trainee Software Engineer — Virstack Pvt. Ltd.
-**DEC 2024 – Present**
-
-- Contributing to developing and maintaining AI-powered full-stack applications using the **MERN stack**, alongside cross-platform mobile development with **Flutter**
-- Integrated AI-driven features to enhance product functionality and built scalable interfaces
-- Developed **RESTful APIs** with Node.js, Express.js, and MongoDB
-- Optimizing application performance to ensure fast, reliable, and efficient user experiences across web and mobile platforms with clean code architectures
-- Supporting **DevOps workflows** and **AWS cloud infrastructure** and version control
-- Collaborating within an agile team to deliver production-ready solutions
+DEC 2024 – Present
 
 ### 🛠️ Intern Software Engineer — Virstack Pvt. Ltd.
-**MAR 2025 – NOV 2025**
-
-- Contributed to full-stack web and mobile application development using **React**, **Angular**, **Express with TypeScript**, and **Flutter (Dart)**
-- Built responsive UI components, implemented form validation and API integrations
-- Supported feature development in a production-level environment
+MAR 2025 – NOV 2025
 
 ---
 
