@@ -29,7 +29,7 @@
 ## 💼 Work Experience
 
 ### 🚀 Trainee Software Engineer — Virstack Pvt. Ltd.
-DEC 2024 – Present
+DEC 2025 – Present
 
 ### 🛠️ Intern Software Engineer — Virstack Pvt. Ltd.
 MAR 2025 – NOV 2025
