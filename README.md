@@ -20,7 +20,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
   <br>
-- 🔭 Currently working as a Trainee Software Engineer at Virstack Pvt.Ltd
+- 🔭 Software Engineering Graduate with 1.5+ years of Industry Experience
 - 😍 I'm Passionate about Information Technology and innovations</p> 
 - 💬 Ask me about **React JS, Node JS, Express JS, MySQL, MongoDB, Java, C, TypeScript, Tailwind CSS, Nest JS**
 - 📫 How to reach me **lahimalshi@gmail.com**
@@ -29,7 +29,7 @@
 ## 💼 Work Experience
 
 ### 🚀 Trainee Software Engineer — Virstack Pvt. Ltd.
-DEC 2025 – Present
+DEC 2025 – SEP 2026
 
 ### 🛠️ Intern Software Engineer — Virstack Pvt. Ltd.
 MAR 2025 – NOV 2025
